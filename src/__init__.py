@@ -1,0 +1,1 @@
+# O arquivo `__init__.py` serve para facilitar a modularização da pasta
